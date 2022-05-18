@@ -1,0 +1,9 @@
+{
+  "uuid": "%uuid%",
+  "name": "CtrlClick",
+  "mainClass": "com.christolis.ctrlclick.CtrlClick",
+  "description": "Helps with simulating a right-click in a fancier way",
+  "version": 1,
+  "author": "Christolis",
+  "category": 2
+}
